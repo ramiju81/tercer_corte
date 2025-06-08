@@ -1,6 +1,6 @@
-# 🎓 IGNC
+# 🎓 Tercer_Corte
 
-![Estado](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB_En_Desarrollo-yellow) ![Licencia](https://img.shields.io/badge/Licencia-🔒%20Privada-red) ![Actualización](https://img.shields.io/badge/🔄_Última_actividad-2025--06--02%2022:32-lightgrey)
+![Estado](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB_En_Desarrollo-yellow) ![Licencia](https://img.shields.io/badge/Licencia-🔒%20Privada-red) ![Actualización](https://img.shields.io/badge/🔄_Última_actividad-2025--06--07%2019:29-lightgrey)
 
 ## 📋 Descripción
 
@@ -20,7 +20,7 @@ Proyecto académico desarrollado como parte de mi formación en ingeniería.
  **Frontend**:  ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html&logoColor=white)   
 
 ## 📂 Estructura del Proyecto
-📁 IGNC/
+📁 Tercer_Corte/
     └── 📂 backfront/
     └── 📂 pedidos/
     └── 📂 restaurante/
@@ -54,4 +54,4 @@ Este trabajo demuestra:
 ---
 📅 **Historial de Versiones**
 🔹 Versión actual: 1.0.0
-🔹 Última actualización: 2025-06-02 22:32
+🔹 Última actualización: 2025-06-07 19:29
